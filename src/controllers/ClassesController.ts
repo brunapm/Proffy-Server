@@ -32,7 +32,7 @@ export default class ClassesController {
                     .whereRaw('`classes_schedule`.`class_id` = `classes`.`id`')
                     .whereRaw('`classes_schedule`.`week_day` = ??', [Number(week_day)])
                     .whereRaw('`classes_schedule`.`from` <= ??', [timeInMinutes])
-                    .whereRaw('`classes_schedule`.`from` > ??', [timeInMinutes])
+                    .whereRaw('`classes_schedule`.`to` > ??', [timeInMinutes])
             })
             .where('classes.subject', '=', subject)
             .join('users', 'classes.user_id', '=', 'users.id')
