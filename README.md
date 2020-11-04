@@ -1,9 +1,9 @@
 # Proffy
-![GitHub language count](https://img.shields.io/github/languages/count/brunapm/Proffy)
-![GitHub top language](https://img.shields.io/github/languages/top/brunapm/Proffy)
-![Lines of code](https://img.shields.io/tokei/lines/github/brunapm/Proffy)
-![GitHub repo size](https://img.shields.io/github/repo-size/brunapm/Proffy)
-![GitHub last commit](https://img.shields.io/github/last-commit/brunapm/Proffy)
+![GitHub language count](https://img.shields.io/github/languages/count/brunapm/Proffy-Server)
+![GitHub top language](https://img.shields.io/github/languages/top/brunapm/Proffy-Server)
+![Lines of code](https://img.shields.io/tokei/lines/github/brunapm/Proffy-Server)
+![GitHub repo size](https://img.shields.io/github/repo-size/brunapm/Proffy-Server)
+![GitHub last commit](https://img.shields.io/github/last-commit/brunapm/Proffy-Server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 #### Proffy was built to help teachers reach learners. 
