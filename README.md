@@ -24,7 +24,7 @@ The following tools were used to build this project:
 - [TypeScript](https://www.typescriptlang.org/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-And an important packages used was:
+And an important package used was:
 
 - [Knex](http://knexjs.org/): Query Builder
 
